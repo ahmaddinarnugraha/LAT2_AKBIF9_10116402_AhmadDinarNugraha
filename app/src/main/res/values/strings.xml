@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">LAT2_AKBIF9_10116402_AhmadDinarNugraha</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+    <string name="logo1">logo1</string>
+    <string name="facebook">facebook</string>
+    <string name="doesn_t_have_account">doesn\'t have account ?</string>
+    <string name="register1">Register</string>
+    <string name="edtx1">edtx1</string>
+    <string name="edtx2">edtx2</string>
+    <string name="email">email</string>
+    <string name="number">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="Password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="home_address">Home Address</string>
+    <string name="Default">Default Location</string>
+    <string name="register2">REGISTER</string>
+    <string name="almost_there">Almost There</string>
+    <string name="text2">Thank you for registering with us. One more step, you need to check your email to active your account</string>
+    <string name="verify">VERIFY</string>
+    <string name="we_have_send_verificationc_code_to_your_email">We have send verificationc code to your email</string>
+    <string name="verify_your_account">Verify Your Account</string>
+    <string name="enter_verification_here">enter verification here!</string>
+    <string name="send">SEND</string>
+    <string name="doesn_t_get_the_code">doesn\'t get the code?</string>
+    <string name="ahmad_dinar_nugraha">Ahmad Dinar Nugraha</string>
+    <string name="blood_give">BLOOD GIVE</string>
+    <string name="blood_type_a">Blood Type : A</string>
+    <string name="_75">75</string>
+    <string name="_100">100</string>
+    <string name="blood_received">BLOOD RECEIVED</string>
+    <string name="_330">330</string>
+    <string name="thanks">THANKS</string>
+    <string name="_5_gives_2_received">5 Gives, 2 Received</string>
+    <string name="donor_history">Donor History</string>
+    <string name="_5_new_massage">5 new massage</string>
+    <string name="message3">Message</string>
+    <string name="_4_user_need_blood">4 User need blood</string>
+    <string name="blood_needed">Blood Needed</string>
+    <string name="search_donor_near_you">Search donor near you</string>
+    <string name="search_donor">Search Donor</string>
+
+    <string-array name="blood_type">
+        <item>Blood Type</item>
+    </string-array>
+    <string-array name="rhesus">
+        <item>Rhesus</item>
+    </string-array>
+    <string-array name="job">
+        <item>Job</item>
+    </string-array>
+</resources>
